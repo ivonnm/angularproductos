@@ -1,0 +1,20 @@
+button{
+    color: rgb(211, 13, 129);
+    background-color: rgb(250, 131, 210);
+}
+
+a{
+    color: rgb(255, 4, 121);
+}
+ h2{
+     
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-style: italic;
+     color: rgb(131, 7, 75);
+ }
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
